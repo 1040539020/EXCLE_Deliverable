@@ -1,0 +1,12 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
